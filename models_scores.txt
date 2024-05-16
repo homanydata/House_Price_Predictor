@@ -1,0 +1,7 @@
+                        Model  Score
+0  Multiple Linear Regression  0.686
+1         KNeighborsRegressor  0.782
+2                XGBRegressor  0.871
+3       RandomForestRegressor  0.822
+4       DecisionTreeRegressor  0.712
+5   Support Vector Regressors  0.630
